@@ -22,7 +22,7 @@ After years of building homes and managing crews, I’m bringing that same grit 
 These projects are hosted in my main repository:  
 🔗 [TwyattDS/Data_projects_TripleTen](https://github.com/TwyattDS/Data_projects_TripleTen)
 
-- 🧠 - 🧠 [Interconnect Churn Prediction](https://github.com/TwyattDS/Data_projects_TripleTen/tree/main/Churn_Prediction_Project)  
+- 🧠 [Interconnect Churn Prediction](https://github.com/TwyattDS/Data_projects_TripleTen/tree/main/Churn_Prediction_Project)  
   Built a classification model to predict customer churn using contract, internet, and personal data. Focused on AUC-ROC ≥ 0.88 using LightGBM, preprocessing pipelines, and customer segmentation insights.  
   [Work Plan](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Churn_Prediction_Project/Churn_Prediction_Stage_1.ipynb) • [Solution Code](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Churn_Prediction_Project/Churn_Prediction_Stage_2.ipynb) • [Solution Report](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Churn_Prediction_Project/Churn_Prediction_Stage_3.ipynb)
 
