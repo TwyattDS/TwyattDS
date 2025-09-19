@@ -19,16 +19,14 @@ After years of building homes and managing crews, I’m bringing that same grit 
 
 ## 🛠️ My Data Science Projects
 
-These are hosted in my [Data_projects_TripleTen](https://github.com/TwyattDS/Data_projects_TripleTen) repository:
+These projects are hosted in my main repository:  
+🔗 [TwyattDS/Data_projects_TripleTen](https://github.com/TwyattDS/Data_projects_TripleTen)
 
 - 🧠 [Interconnect Churn Prediction](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Churn_Prediction_Project/Churn_Prediction_Project.ipynb)  
   Built a classification model to predict customer churn using contract, internet, and personal data. Focused on AUC-ROC ≥ 0.88 using LightGBM, preprocessing pipelines, and customer segmentation insights.
 
-- 🛍️ [Instacart Market Basket EDA](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Instacart_EDA_Project/Instacart_EDA_Project.ipynb)  
-  Performed exploratory data analysis on millions of grocery orders. Identified top-selling products, reorder trends, and user shopping patterns. Created visualizations and performed product-level behavior analysis.
-
-- 🚕 [Taxi Demand Forecasting](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Time_Series_Taxi_Project/Time_Series_Taxi_Project.ipynb)  
-  Used time series modeling (SARIMA, CatBoost, Light
+- 🚗 [Rusty Car Value Prediction](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Rusty_Car_sales_Project/Rusty_Car_sales_Project.ipynb)  
+  Built regression models (Linear, Random Forest, LightGBM) to estimate used car prices. Focused on data cleaning, feature encoding, and validation RMSE comparison. Implemented grouped imputation and category merging.
 
 
 
