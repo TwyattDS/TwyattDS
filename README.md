@@ -22,8 +22,10 @@ After years of building homes and managing crews, I’m bringing that same grit 
 These projects are hosted in my main repository:  
 🔗 [TwyattDS/Data_projects_TripleTen](https://github.com/TwyattDS/Data_projects_TripleTen)
 
-- 🧠 [Interconnect Churn Prediction](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Churn_Prediction_Project/Churn_Prediction_Project.ipynb)  
-  Built a classification model to predict customer churn using contract, internet, and personal data. Focused on AUC-ROC ≥ 0.88 using LightGBM, preprocessing pipelines, and customer segmentation insights.
+- 🧠 - 🧠 [Interconnect Churn Prediction](https://github.com/TwyattDS/Data_projects_TripleTen/tree/main/Churn_Prediction_Project)  
+  Built a classification model to predict customer churn using contract, internet, and personal data. Focused on AUC-ROC ≥ 0.88 using LightGBM, preprocessing pipelines, and customer segmentation insights.  
+  [Work Plan](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Churn_Prediction_Project/Churn_Prediction_Stage_1.ipynb) • [Solution Code](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Churn_Prediction_Project/Churn_Prediction_Stage_2.ipynb) • [Solution Report](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Churn_Prediction_Project/Churn_Prediction_Stage_3.ipynb)
+
 
 - 🚗 [Rusty Car Value Prediction](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Rusty_Car_sales_Project/Rusty_Car_sales_Project.ipynb)  
   Built regression models (Linear, Random Forest, LightGBM) to estimate used car prices. Focused on data cleaning, feature encoding, and validation RMSE comparison. Implemented grouped imputation and category merging.
@@ -34,7 +36,6 @@ These projects are hosted in my main repository:
 ## 📫 Let’s Connect
 - Email: Twyatt.Ds@Gmail.com
 - LinkedIn: www.linkedin.com/in/twyattds/
-- Portfolio: [link if you have one]
 
 
 
