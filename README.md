@@ -17,32 +17,18 @@ Welcome to my GitHub! I'm a hands-on builder and problem solver who’s shifting
 ## 🧭 My Career Pivot
 After years of building homes and managing crews, I’m bringing that same grit and detail-focus to tech. I love solving messy problems, digging into data, and making information work for people. My long-term goal is to work **remotely** in **data science** — or freelance for mission-driven teams that value curiosity, hustle, and clarity.
 
-## 🛠️ Current Projects
+## 🛠️ My Data Science Projects
 
-- 🧠 [Interconnect Churn Prediction](./Churn_Prediction_Project/Churn_Prediction_Project.ipynb)  
+These are hosted in my [Data_projects_TripleTen](https://github.com/TwyattDS/Data_projects_TripleTen) repository:
+
+- 🧠 [Interconnect Churn Prediction](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Churn_Prediction_Project/Churn_Prediction_Project.ipynb)  
   Built a classification model to predict customer churn using contract, internet, and personal data. Focused on AUC-ROC ≥ 0.88 using LightGBM, preprocessing pipelines, and customer segmentation insights.
 
-- 🛍️ [Instacart Market Basket EDA](./Instacart_EDA_Project/Instacart_EDA_Project.ipynb)  
+- 🛍️ [Instacart Market Basket EDA](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Instacart_EDA_Project/Instacart_EDA_Project.ipynb)  
   Performed exploratory data analysis on millions of grocery orders. Identified top-selling products, reorder trends, and user shopping patterns. Created visualizations and performed product-level behavior analysis.
 
-- 🚕 [Taxi Demand Forecasting](./Time_Series_Taxi_Project/Time_Series_Taxi_Project.ipynb)  
-  Used time series modeling (SARIMA, CatBoost, LightGBM) to forecast hourly taxi ride demand. Evaluated models on RMSE ≤ 48. Included feature engineering (lags, rolling means) and test set evaluation.
-
-- 🧮 [Linear Algebra for Image Compression](./Linear_Alg_Project/Linear_Alg_Project.ipynb)  
-  Applied Singular Value Decomposition (SVD) for compressing grayscale images. Explored matrix rank, reconstruction error, and visual impact of compression in real-world images.
-
-- 🚗 [Rusty Car Value Prediction](./Rusty_Car_Sales_Project/Rusty_Car_Sales_Project.ipynb)  
-  Built regression models (Linear, Random Forest, LightGBM) to estimate used car prices. Focused on data cleaning, feature encoding, and validation RMSE comparison. Implemented grouped imputation and category merging.
-
-- 💼 [ML for Business Decisions](./ML_in_Business_Project/ML_in_Business_Project.ipynb)  
-  Predicted ad campaign ROI using logistic regression and decision trees. Evaluated strategies based on profit estimates. Applied business logic to guide investment choices using model outcomes.
-
-- 🧑‍💻 [Supervised Learning Pipeline](./Supervised_Learning_Project/Supervised_Learning_Project.ipynb)  
-  Designed and trained multiple supervised learning models (LogReg, Random Forest, XGBoost) on classification tasks. Emphasized pipeline creation, hyperparameter tuning, and overfitting analysis.
-
-- 🔍 [SQL Analytics for Bookstore](./SQL_Project/SQL_Project.ipynb)  
-  Wrote advanced SQL queries to analyze a bookstore database. Used joins, filtering, aggregation, and window functions to extract business insights and support strategic planning.
-
+- 🚕 [Taxi Demand Forecasting](https://github.com/TwyattDS/Data_projects_TripleTen/blob/main/Time_Series_Taxi_Project/Time_Series_Taxi_Project.ipynb)  
+  Used time series modeling (SARIMA, CatBoost, Light
 
 
 
